@@ -1,0 +1,5 @@
+将该install.jar放到
+\java\jar
+目录下，替换原始文件。
+
+密钥及lic授权，还有替换的bin目录下的dll文件在文件夹serial下。
